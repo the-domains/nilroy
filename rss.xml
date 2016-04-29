@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[nilroy]]></title>
+        <description><![CDATA[nilroy]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 29 Apr 2016 03:18:46 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Crater Lake National Park, Oregon, USA]]></title>
+            <description><![CDATA[<article><h1>Crater Lake National Park, Oregon, USA</h1><p>42.9446° N, 122.1090° W</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d70da9ad0cfe5d1487ebf0e592b715b1500fcdda.jpg"></article>]]></description>
+            <link>undefinedcrater-lake-national-park-oregon-usa/index.html</link>
+            <guid isPermaLink="false">42f7fc97-0fa9-451d-9ccd-7c79a1c47c00</guid>
+            <pubDate>Fri, 29 Apr 2016 03:18:41 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
