@@ -1,0 +1,28 @@
+name: nilroy
+favicon: null
+layout_spectrum: 0.25566350715234876
+typography_spectrum: 0.5752619730774313
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.9422815686557442
+  lightness: 0.39455540804192424
+  saturation: 0.932789902901277
+  rhythmicContrast: 0.222706139087677
+purpose: []
