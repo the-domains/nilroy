@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: '37.8651° N, 119.5383° W'
-datePublished: '2016-04-29T03:45:19.365Z'
-dateModified: '2016-04-29T03:23:26.367Z'
+datePublished: '2016-04-29T03:50:47.137Z'
+dateModified: '2016-04-29T03:50:44.848Z'
 title: 'Yosemite National Park, California, USA'
 author: []
+sourcePath: _posts/2016-04-29-yosemite-national-park-california-usa.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,8 +18,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-29-yosemite-national-park-california-usa.md
-published: true
 url: yosemite-national-park-california-usa/index.html
 _type: Article
 
