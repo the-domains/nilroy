@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: '"HIMALAYA" By Michael Palin'
-datePublished: '2016-04-29T04:10:22.820Z'
-dateModified: '2016-04-29T04:10:10.929Z'
+datePublished: '2016-04-29T04:12:17.387Z'
+dateModified: '2016-04-29T04:10:31.612Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-29-himalaya-by-michael-palin.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,8 +18,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-29-himalaya-by-michael-palin.md
-published: true
 url: himalaya-by-michael-palin/index.html
 _type: Article
 
