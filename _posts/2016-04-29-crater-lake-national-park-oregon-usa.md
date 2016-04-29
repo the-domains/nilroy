@@ -4,13 +4,11 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: '42.9446° N, 122.1090° W'
-datePublished: '2016-04-29T03:51:02.604Z'
-dateModified: '2016-04-29T03:50:28.616Z'
+description: '42.8684° N, 122.1685° W'
+datePublished: '2016-04-29T03:51:19.606Z'
+dateModified: '2016-04-29T03:46:50.170Z'
 title: 'Crater Lake National Park, Oregon, USA'
-author:
-  - name: ''
-    url: ''
+author: []
 sourcePath: _posts/2016-04-29-crater-lake-national-park-oregon-usa.md
 published: true
 authors: []
@@ -24,7 +22,7 @@ url: crater-lake-national-park-oregon-usa/index.html
 _type: Article
 
 ---
-**42.9446° N, 122.1090° W**
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d70da9ad0cfe5d1487ebf0e592b715b1500fcdda.jpg)
+**42.8684° N, 122.1685° W**
 
 ## Crater Lake National Park, Oregon, USA
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a24bce86-530a-4f86-aa01-b5ac1eec2b17.jpg)
