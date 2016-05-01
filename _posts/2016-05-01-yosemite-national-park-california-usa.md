@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: '37.8651° N, 119.5383° W'
-datePublished: '2016-05-01T15:45:42.225Z'
-dateModified: '2016-05-01T15:45:24.298Z'
+datePublished: '2016-05-01T15:51:48.318Z'
+dateModified: '2016-05-01T15:45:51.878Z'
 title: 'Yosemite National Park, California, USA'
-author: []
+author:
+  - name: ''
+    url: ''
 authors: []
 publisher:
   name: null
