@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: '"HIMALAYA" By Michael Palin'
-datePublished: '2016-05-01T15:52:24.431Z'
-dateModified: '2016-04-29T04:12:25.091Z'
+datePublished: '2016-05-01T16:05:02.639Z'
+dateModified: '2016-05-01T15:52:32.786Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-29-himalaya-by-michael-palin.md
