@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: "36°26'35.5\"N 117°09'35.5\"W"
-datePublished: '2016-05-01T16:36:21.721Z'
-dateModified: '2016-05-01T16:34:16.634Z'
+datePublished: '2016-05-01T16:36:46.422Z'
+dateModified: '2016-05-01T16:36:29.946Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-29-himalaya-by-michael-palin.md
