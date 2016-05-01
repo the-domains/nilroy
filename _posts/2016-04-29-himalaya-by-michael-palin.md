@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: '"HIMALAYA" By Michael Palin'
-datePublished: '2016-05-01T16:05:02.639Z'
-dateModified: '2016-05-01T15:52:32.786Z'
+datePublished: '2016-05-01T16:11:45.264Z'
+dateModified: '2016-05-01T16:05:09.964Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-29-himalaya-by-michael-palin.md
@@ -23,8 +23,7 @@ _type: Article
 
 ---
 "**[HIMALAYA][0]**" By Michael Palin
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/130b0178-b523-439b-96f8-995828bcbc10.jpg)
 
-Travel diary of celebrated BBC reporter Micheal E Palin. In himalaya, Micheal travels 1800 miles, starting at the Khyber Pass on the Afghanistan/Pakistan-border, passing through Pakistan, India, Nepal, Tibet, China, Bhutan and eventually finishing at the Bay of Bengal in Bangladesh. A great armchair travel book. 
+Travel diary of celebrated BBC reporter Micheal E Palin. In himalaya, Micheal travels 1800 miles, starting at the Khyber Pass on the Afghanistan/Pakistan-border, passing through Pakistan, India, Nepal, Tibet, China, Bhutan and eventually finishing at the Bay of Bengal in Bangladesh. A great armchair travel book. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/130b0178-b523-439b-96f8-995828bcbc10.jpg)
 
 [0]: http://www.amazon.com/Himalaya-Michael-Palin-2004-09-27/dp/B019NRS5TS?ie=UTF8&keywords=himalaya%20michael%20palin&qid=1461902925&ref_=sr_1_11&sr=8-11
