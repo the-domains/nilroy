@@ -5,14 +5,13 @@ inNav: false
 inLanguage: null
 keywords: []
 description: "36°26'35.5\"N 117°09'35.5\"W"
-datePublished: '2016-05-01T17:21:35.346Z'
-dateModified: '2016-05-01T17:04:25.250Z'
+datePublished: '2016-05-06T03:42:25.453Z'
+dateModified: '2016-05-01T17:21:43.516Z'
 title: 'Death Valley National Park, California, USA'
 author:
   - name: ''
     url: ''
 sourcePath: _posts/2016-04-29-himalaya-by-michael-palin.md
-published: true
 authors: []
 publisher:
   name: null
