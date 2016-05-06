@@ -4,11 +4,13 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: "36°40'52.7\"N 117°33'45.7\"W "
-datePublished: '2016-05-06T03:45:54.094Z'
-dateModified: '2016-05-06T03:45:43.360Z'
+description: ''
+datePublished: '2016-05-06T03:48:35.383Z'
+dateModified: '2016-05-06T03:45:56.448Z'
 title: 'Death Valley National Park, California, USA'
-author: []
+author:
+  - name: ''
+    url: ''
 authors: []
 publisher:
   name: null
